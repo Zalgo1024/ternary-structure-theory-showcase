@@ -34,4 +34,4 @@ python -m http.server 8000
 
 ## 版权
 
-© 2026 三元结构理论。保留所有权利。
+© 2026 李政恒 (Li Zhengheng)。保留所有权利。
