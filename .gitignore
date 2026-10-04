@@ -1,6 +1,9 @@
 # 临时草稿 / 未发布手稿 —— 仅留本地，不进入公开仓库
 tmp_*.txt
 
+# Netlify Drop 拖拽包 —— 由 docs/index.html 复制而来，不重复入库
+部署包-netlify-drop/
+
 # 系统/编辑器垃圾文件
 .DS_Store
 Thumbs.db
